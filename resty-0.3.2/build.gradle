@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('resty-0.3.2.jar'))
